@@ -185,7 +185,7 @@ NDBI and built-up mapping were used to examine the spatial distribution and expa
 
 The built-up analysis was subsequently compared with LST to investigate spatial relationships between urbanisation and surface temperature.
 
-**NDBI / built-up maps will be added here.**
+![Delhi NDBI Built Up Comparison 2003 2013 2022](05_Builtup_2003_2013_2022.png)
 
 ---
 
