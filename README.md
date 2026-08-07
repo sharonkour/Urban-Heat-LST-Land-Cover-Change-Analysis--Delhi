@@ -195,7 +195,7 @@ A spatial overlay was developed to examine the relationship between built-up are
 
 This analysis provides a spatial view of areas where urbanised land overlaps with higher surface-temperature ranges.
 
-**LST and built-up overlay will be added here.**
+![Delhi LST Built Up Overlay](06_LST_BuiltUp_Overlay.png)
 
 ---
 
