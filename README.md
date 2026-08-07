@@ -205,7 +205,7 @@ Heat hotspot maps were developed using LST-based analysis to identify areas expe
 
 The hotspot analysis provides a direct visual representation of the spatial distribution of high-LST areas across Delhi.
 
-**Heat hotspot maps will be added here.**
+![Delhi Heat Hotspot Map](07_Heat_hotspots.png)
 
 ---
 
