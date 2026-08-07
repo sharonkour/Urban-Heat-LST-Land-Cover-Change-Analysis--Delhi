@@ -130,7 +130,7 @@ The detailed satellite analysis used Landsat imagery for the selected years, whi
 
 The LST maps show spatial variation in surface temperature across Delhi and changes in the distribution of higher-temperature areas between the selected years.
 
-**LST maps will be added here.**
+![Delhi LST Comparison 2003 2013 2022](01_LST_2003_2013_2022.png)
 
 ---
 
