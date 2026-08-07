@@ -157,13 +157,16 @@ The classification includes:
 
 The analysis shows an increase in Delhi's built-up share over the study period.
 
-| Year | Built-up Share |
-|---|---:|
-| 2003 | 31.4% |
-| 2013 | 34.0% |
-| 2022 | 38.2% |
+| LULC Class | 2003 | 2013 | 2022 |
+|---|---:|---:|---:|
+| Built-up | 31.4% | 34.0% | 38.2% |
+| Water bodies | 0.9% | 0.8% | 0.9% |
+| Dense forest | 4.2% | 3.2% | 6.6% |
+| Green cover / vegetation | 28.4% | 38.6% | 37.6% |
 
-This represents an increase of **6.8 percentage** between 2003 and 2022.
+This represents an increase of **6.8 percentage** between 2003 and 2022, indicating an expansion of urbanised land over the study period.
+
+The changes in other LULC categories provide additional context for understanding how Delhi's land-cover composition has evolved alongside urban expansion.
 
 ![Delhi LULC Change 2003 2013 2022](03_LULC_Change_2003_2013_2022.png)
 
@@ -219,7 +222,7 @@ Built-up share increased from:
 
 The comparison was used to examine the relationship between urban expansion and the changing thermal environment.
 
-**Built-up vs. average LST graph will be added here.**
+![Delhi Built Up vs Average LST](08_Builtup_vs_average_LST.png)
 
 > **Interpretation:** The comparison indicates an observed spatial and temporal association between increasing urbanisation and the changing thermal environment. This should be interpreted as an association rather than proof that LULC change alone caused the observed temperature changes.
 
