@@ -163,7 +163,7 @@ The analysis shows an increase in Delhi's built-up share over the study period.
 | 2013 | 34.0% |
 | 2022 | 38.2% |
 
-This represents an increase of **6.8 percentage points** between 2003 and 2022.
+This represents an increase of **6.8 percentage** between 2003 and 2022.
 
 ![Delhi LULC Change 2003 2013 2022](03_LULC_Change_2003_2013_2022.png)
 
@@ -175,7 +175,7 @@ NDVI was used to identify and compare vegetation and green-cover patterns across
 
 The NDVI analysis provides an additional spatial layer for interpreting the relationship between vegetation and surface temperature.
 
-**NDVI maps will be added here.**
+![Delhi NDVI Comparison 2003 2013 2022](04_NDVI_2003_2013_2022.png)
 
 ---
 
