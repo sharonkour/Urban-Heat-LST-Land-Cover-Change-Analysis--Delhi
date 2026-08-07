@@ -165,7 +165,7 @@ The analysis shows an increase in Delhi's built-up share over the study period.
 
 This represents an increase of **6.8 percentage points** between 2003 and 2022.
 
-**LULC change graph will be added here.**
+![Delhi LULC Change 2003 2013 2022](03_LULC_Change_2003_2013_2022.png)
 
 ---
 
