@@ -149,7 +149,7 @@ The classification includes:
 - Open scrubland
 - Fallow/barren land
 
-**LULC maps will be added here.**
+![Delhi LULC Comparison 2003 2013 2022](02_LULC_2003_2013_2022.png)
 
 ---
 
