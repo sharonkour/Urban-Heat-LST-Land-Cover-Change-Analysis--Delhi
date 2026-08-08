@@ -314,44 +314,16 @@ Map.addLayer(
 // 10. EXPORT CLASSIFIED IMAGE
 // ============================================================
 //
-// This export points to the original Google Earth Engine
-// project asset location used during the analysis.
-//
-// The asset path is retained here to document the workflow.
-// ============================================================
-
-var exportFolder =
-  'projects/sharan07/assets/Assignment3/';
-
-var classifiedExportImage =
-  'embeddings_classification';
-
-var classifiedExportImagePath =
-  exportFolder + classifiedExportImage;
 
 
-Export.image.toAsset({
-
-  image: embeddingClassified.clip(geometry),
-
-  description:
-    'Classified_Image_Export_Asset',
-
-  assetId:
-    classifiedExportImagePath,
-
-  region:
-    geometry,
-
-  scale:
-    10,
-
-  pyramidingPolicy:
-    'MODE',
-
-  maxPixels:
-    1e10
-
+Export.image.toDrive({
+  image: classified.clip(geometry).toByte(),
+  description: 'GEE_LULC_Classification_2024',
+  folder: 'GEE_LULC_Portfolio',
+  fileNamePrefix: 'GEE_LULC_Classification_2024',
+  region: geometry,
+  scale: 10,
+  maxPixels: 1e10
 });
 
 
